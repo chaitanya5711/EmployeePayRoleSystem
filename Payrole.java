@@ -1,4 +1,4 @@
-package hmm;
+package java;
 import java.util.*;
 
 public class PayRole {
